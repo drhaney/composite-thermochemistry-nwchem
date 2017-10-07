@@ -12,7 +12,7 @@ import nwchem
 #________________  PHYSICAL CONSTANTS _________________
 #______________________________________________________
 
-kCalPerHartree  = 627.509451
+kCalPerHartree  = 627.509541
 Boltzmann       = 1.3806488E-23
 Avogadro        = 6.02214129E+23
 JoulePerKcal    = 4.184E+03
